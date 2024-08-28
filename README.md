@@ -1,6 +1,3 @@
- 
-READ ME FILE
-
 Code Video: https://www.youtube.com/watch?v=OnE9S056Vws
 
 **You must Install Tkinter to run this code***
